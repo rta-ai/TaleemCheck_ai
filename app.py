@@ -123,8 +123,9 @@ html, body, [class*="css"] {
 .stProgress > div > div { background: linear-gradient(90deg, #2ECC71, #3498DB) !important; }
 
 /* ── Hide Streamlit branding ── */
-#MainMenu, footer, header { visibility: hidden; }
-
+/* ── Previous Working code with hiding side bar issue hanged with the new below── #MainMenu, footer, header { visibility: hidden; }*/
+#MainMenu { visibility: hidden; }
+footer { visibility: hidden; }
 /* ── Home hero ── */
 .hero-container {
     background: linear-gradient(135deg, #0d1117 0%, #1a2332 50%, #0d2137 100%);
