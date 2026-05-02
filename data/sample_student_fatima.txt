@@ -1,0 +1,52 @@
+Student Name: Fatima Malik
+Roll Number: 102
+Class: 10-A
+
+---
+
+Q1: AI is when machines are programmed to think and make decisions. It is used in many places today.
+
+Example 1: Siri and Google Assistant are AI assistants that understand voice commands.
+Example 2: Hospitals use AI to detect diseases in X-rays.
+
+---
+
+Q2: Machine learning is a branch of AI. Computers improve by learning from experience.
+
+Supervised learning means training with labeled examples. Like a model trained to recognize cats using thousands of cat photos labeled "cat".
+
+Unsupervised: The model finds hidden patterns. Used in market research to find customer groups.
+
+---
+
+Q3: DBMS is a software system for managing databases. MySQL, Oracle, MS Access are examples.
+
+Advantages:
+1. Reduces redundancy - same data is not stored multiple times.
+2. Better security with user access controls.
+3. Easier data backup and recovery compared to flat files.
+
+---
+
+Q4: IoT is connecting physical devices to internet to collect and share data.
+
+Pakistan:
+1. Smart traffic lights in cities like Lahore that adjust timing based on traffic density using sensors.
+2. IoT water meters to monitor water usage in houses and detect leakage automatically.
+
+---
+
+Q5: Cybersecurity protects digital systems from attacks.
+
+Threats:
+1. Ransomware attacks where hackers encrypt your files and demand money.
+2. Social engineering where hackers trick people to give their passwords.
+3. DDoS attacks which flood a website with traffic to shut it down.
+
+---
+
+Q6: Cloud computing is accessing computing services like storage and software over the internet instead of local hardware.
+
+Public cloud like AWS and Azure is for general public and businesses.
+
+Private cloud is dedicated to one organization and kept on their own infrastructure for better security.

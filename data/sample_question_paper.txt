@@ -1,0 +1,58 @@
+COMPUTER SCIENCE — MID-TERM EXAMINATION
+Class 10 | Total Marks: 30 | Time: 2 Hours
+
+---
+
+Q1 (5 marks): Define Artificial Intelligence (AI). Give at least two real-world examples of AI applications.
+
+Rubric:
+- Correct definition of AI (2 marks)
+- First real-world example with brief explanation (1.5 marks)
+- Second real-world example with brief explanation (1.5 marks)
+
+---
+
+Q2 (5 marks): What is Machine Learning? Explain the difference between supervised and unsupervised learning.
+
+Rubric:
+- Correct definition of Machine Learning (1 mark)
+- Clear explanation of supervised learning with example (2 marks)
+- Clear explanation of unsupervised learning with example (2 marks)
+
+---
+
+Q3 (5 marks): Explain the concept of a Database Management System (DBMS). What are its three main advantages over flat-file systems?
+
+Rubric:
+- Correct definition of DBMS (1 mark)
+- Advantage 1 with explanation (1.5 marks)
+- Advantage 2 with explanation (1.5 marks)
+- Advantage 3 with explanation (1 mark)
+
+---
+
+Q4 (5 marks): What is the Internet of Things (IoT)? Describe two IoT applications that could benefit Pakistan.
+
+Rubric:
+- Correct definition of IoT (1 mark)
+- IoT Application 1 relevant to Pakistan with explanation (2 marks)
+- IoT Application 2 relevant to Pakistan with explanation (2 marks)
+
+---
+
+Q5 (5 marks): Define Cybersecurity. List and briefly explain three common cyber threats that individuals face online.
+
+Rubric:
+- Correct definition of cybersecurity (1 mark)
+- Cyber threat 1 identified and explained (1.5 marks)
+- Cyber threat 2 identified and explained (1.5 marks)
+- Cyber threat 3 identified and explained (1 mark)
+
+---
+
+Q6 (5 marks): What is Cloud Computing? Explain the difference between public cloud and private cloud with an example of each.
+
+Rubric:
+- Correct definition of cloud computing (1 mark)
+- Public cloud explained with example (2 marks)
+- Private cloud explained with example (2 marks)

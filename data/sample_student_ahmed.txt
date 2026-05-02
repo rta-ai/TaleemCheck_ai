@@ -1,0 +1,55 @@
+Student Name: Ahmed Khan
+Roll Number: 101
+Class: 10-A
+Subject: Computer Science
+Exam: Mid-Term
+
+---
+
+Q1: Artificial Intelligence means making computers think like humans. It is the ability of machines to perform tasks that normally require human intelligence. 
+
+Examples:
+- Google Maps uses AI to find the best route and predict traffic.
+- Netflix uses AI to recommend movies based on what you have watched before.
+
+---
+
+Q2: Machine Learning is a type of AI where computers learn from data without being explicitly programmed. 
+
+Supervised learning is when the computer learns from labeled data. For example, teaching a spam filter by showing it examples of spam and not spam emails.
+
+Unsupervised learning is when the computer finds patterns in data without labels. For example, grouping customers by their buying habits.
+
+---
+
+Q3: A DBMS is software that helps store, manage and retrieve data in a structured way. Examples include MySQL and Oracle.
+
+Advantages over flat-file systems:
+1. Data is not repeated (no redundancy). In flat files the same data may be stored in many places.
+2. Data is more secure. DBMS allows us to set permissions so only authorized users can access data.
+3. Multiple users can access the database at the same time which is not possible in flat files.
+
+---
+
+Q4: IoT means connecting everyday objects to the internet so they can send and receive data.
+
+Pakistan applications:
+1. Smart agriculture - farmers can use IoT sensors to check soil moisture and water their crops automatically. This is very helpful in Punjab where farming is important.
+2. Smart electricity meters - IoT meters can send electricity readings automatically to WAPDA without a person visiting each home.
+
+---
+
+Q5: Cybersecurity is the practice of protecting computers, networks and data from hackers and cyber attacks.
+
+Three common cyber threats:
+1. Phishing - when hackers send fake emails pretending to be a bank or company to steal your password and personal information.
+2. Malware - harmful software that damages your computer or steals data. Viruses and ransomware are examples.
+3. Hacking - unauthorized access to your accounts or computer systems.
+
+---
+
+Q6: Cloud computing means using the internet to store and access data and programs instead of your own computer.
+
+Public cloud is available to everyone over the internet. Example is Google Drive where anyone can store files.
+
+Private cloud is only for one organization and is more secure. Example is a hospital using its own private servers for patient data.
