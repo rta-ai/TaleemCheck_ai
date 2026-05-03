@@ -763,7 +763,7 @@ elif "Results" in page:
         }
         return colors_map.get(val, "")
 
-    styled = display_summary.style.applymap(color_grade, subset=["Grade"])
+    styled = display_summary.style.map(color_grade, subset=["Grade"])
     st.dataframe(styled, use_container_width=True)
 
     # ── Per-student detail cards ──────────────────────────────────────
